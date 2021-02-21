@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Dev Finance" title="Dev Finance" src="./github/logo.svg" width="20%" />
+    <img alt="Dev Finance" title="Dev Finance" src=".github/logo.svg" width="20%" />
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Dev Finance" title="Dev Finance" src="./github/devfinances.png" width="50%" />
+    <img alt="Dev Finance" title="Dev Finance" src=".github/devfinances.png" width="50%" />
 </h1>
 
 <br>
