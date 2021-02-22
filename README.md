@@ -6,6 +6,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+  <a href="#diferenciais">Diferenciais</a>
 </p>
 
 <h1 align="center">
@@ -25,6 +26,10 @@ Esse projeto foi desenvolvido com as tecnologias:
 ## 💻 Projeto
 
 O dev.finance$ é uma aplicação WEB desenvolvida a partir da Maratona Discover oferecida pela Rocketseat.
+
+## 🥇 Diferenciais
+
+O projeto desenvolvido conta com um diferencial agregador do projeto original, a adição de temas. Onde o usuário pode mudar entre Dark e Light.
 
 ## :memo: Licença
 
